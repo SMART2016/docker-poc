@@ -1,1 +1,2 @@
-docker compose for wordpress with postgres as supporting db
+  - docker compose for wordpress with postgres as supporting db
+  - The version of docker compose is 2 which means that the services are connected with a default bridge network
